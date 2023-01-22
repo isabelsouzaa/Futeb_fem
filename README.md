@@ -38,5 +38,9 @@ Fazer o download deste repositório para sua máquina local e rodar os códigos,
 - [keras](https://pypi.org/project/keras/)
 - [tensorflow](https://pypi.org/project/tensorflow/)
 
+## Principais Resultados 
+
+PARTIDAS JOGADAS E PARTIDAS GANHAS
+![partidasjogXganhas](https://user-images.githubusercontent.com/123265569/213924457-7c90f9cb-a470-45c3-a73a-bb970a5f87c3.png)
 
  
