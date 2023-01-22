@@ -41,5 +41,10 @@ Fazer o download deste repositório para sua máquina local e rodar os códigos,
 ## Principais Resultados 
 
 ![partidasjogXganhas](https://user-images.githubusercontent.com/123265569/213924457-7c90f9cb-a470-45c3-a73a-bb970a5f87c3.png)
+![partganhasXpodio](https://user-images.githubusercontent.com/123265569/213924679-9791ddb9-f933-4d47-916d-d9f5db9df0ae.png)
+![percentvito](https://user-images.githubusercontent.com/123265569/213924697-cb0c5bce-01f4-4dfa-a3c7-8ccc1c6a25ee.png)
+![partidasjogXganhas1](https://user-images.githubusercontent.com/123265569/213924718-b88534d0-ddba-4628-b1ef-ce9b2487c228.png)
+
+
 
  
