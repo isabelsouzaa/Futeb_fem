@@ -1,4 +1,4 @@
-# Projeto - Tópicos Especiais em Métodos Quantitativos
+# Projeto - Análise dos Resultados de Partidas no Futebol Feminino
 
 ## Autoria 
 - Gabrielle Carvalho
